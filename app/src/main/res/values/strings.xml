@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Maps One</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_name">"Havanna, Cuba"</string>
+</resources>
